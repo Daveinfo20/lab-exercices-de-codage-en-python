@@ -5,7 +5,7 @@
 """
 
 def exo_03(tuple):
-  tuple=('Decembre', 9, 2020)
+  tuple=(9, 'Decembre', 2020)
    
   b, a, c='Decembre', 9, 2020
   return (b, a , c)
